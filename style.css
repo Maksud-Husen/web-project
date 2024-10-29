@@ -50,7 +50,6 @@ body {
   border-radius: 100px 0px 100px 100px;
 }
 .text {
-  left: 0px;
   position: relative;
   top: -25px;
   left: 6%;
@@ -114,45 +113,45 @@ h5 {
   justify-content: center;
   position: absolute;
   text-align: center;
-top: 530px;
+  top: 530px;
   left: 8%;
   grid-template-columns: 300px 300px 300px;
   grid-template-rows: 350px;
 }
-.feat{
+.feat {
   background-color: #5191c6;
   position: relative;
   font-size: 25px;
   color: white;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-   margin: 40px;
-   border-radius: 10px;
-   font-size: larger;
+  margin: 40px;
+  border-radius: 10px;
+  font-size: larger;
 }
-.fimg{
+.fimg {
   width: 100px;
   height: 80px;
   border-radius: 100%;
   left: 10px;
   margin: 5px;
 }
-.info{
+.info {
   position: relative;
   top: 20px;
   margin: 0px;
   padding: 0px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 16px;
 }
-.second{
+.second {
   position: absolute;
-  background-color:#e8f1f9;
+  background-color: #e8f1f9;
   height: 450px;
   width: 71.5%;
   left: 15.5%;
   top: 888px;
 }
-.head{
+.head {
   position: relative;
   top: 75px;
   left: 10%;
@@ -160,10 +159,10 @@ top: 530px;
   margin: 0px;
   padding: 0px;
   color: #1c72b8;
-  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
-  
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
-.para{
+.para {
   position: relative;
   top: 85px;
   left: 10%;
@@ -172,20 +171,20 @@ top: 530px;
   width: 500px;
 }
 
-.list{
+.list {
   position: relative;
   top: 75px;
   left: 12%;
   margin: 0px;
   padding: 0px;
 }
-.Himg{
+.Himg {
   position: relative;
   top: -180px;
   left: 65%;
   width: 300px;
 }
-.E{
+.E {
   position: relative;
   top: -250px;
   left: 10%;
@@ -197,18 +196,17 @@ top: 530px;
   border-radius: 100px 100px 100px 100px;
   text-align: center;
   color: #ffff;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-.trd{
+.trd {
   position: absolute;
   height: 950px;
   width: 71.5%;
   left: 15.5%;
   top: 1300px;
   background-color: rgb(254, 255, 255);
- 
 }
-.head2{
+.head2 {
   position: relative;
   top: 12%;
   text-align: center;
@@ -216,9 +214,10 @@ top: 530px;
   margin: 0px;
   padding: 0px;
   color: #1c72b8;
-  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
-.p2{
+.p2 {
   position: relative;
   top: 12%;
   left: 12%;
@@ -240,19 +239,19 @@ top: 530px;
   grid-template-columns: 300px 300px 300px;
   grid-template-rows: 350px 350px;
 }
-.feat1{
-   box-shadow: 10px 15px 20px rgb(188, 187, 187);
+.feat1 {
+  box-shadow: 10px 15px 20px rgb(188, 187, 187);
 }
-.wtkm{
-  background: linear-gradient(to right, #ff3031, #ff9f67) ;
+.wtkm {
+  background: linear-gradient(to right, #ff3031, #ff9f67);
   position: absolute;
-  background-color:#e8f1f9;
+  background-color: #e8f1f9;
   width: 71.5%;
   left: 15.5%;
   height: 190px;
   top: 2250px;
 }
-.wtk{
+.wtk {
   color: #ffff;
   position: absolute;
   top: 30px;
@@ -263,9 +262,9 @@ top: 530px;
   width: 400px;
   text-align: left;
   font-weight: bolder;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-.cwu{
+.cwu {
   position: relative;
   color: #e52824;
   width: 250px;
@@ -275,145 +274,778 @@ top: 530px;
   margin: 5px;
   padding: 5px;
   text-align: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   background-color: #ffff;
   border-radius: 100px 100px 100px 100px;
 }
-.th4{
+.th4 {
   position: absolute;
   width: 71.5%;
   left: 15.5%;
   height: 1500px;
   top: 2440px;
   background-color: rgb(254, 255, 255);
- 
 }
-.he{
+.he {
   top: 30px;
 }
-.p{
+.p {
   top: 30px;
 }
-.h1{
+.h1 {
   position: relative;
   width: 70%;
   height: 225px;
   background-color: #2774b8;
-top: 90px ;
-left: 15%;
-border-radius: 80px 20px 20px 80px;
-
+  top: 90px;
+  left: 15%;
+  border-radius: 80px 20px 20px 80px;
 }
-.lap{
+.lap {
   position: relative;
- top: -15px;
+  top: -15px;
   left: -80px;
   width: 250px;
   border-radius: 100%;
 }
-.h2{
+.h2 {
   position: relative;
   font-size: 25px;
-top: -200px;
+  top: -200px;
   margin: 0px;
   padding: 0px;
- color: #ffff;
- left: 250px;
-  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: #ffff;
+  left: 250px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
-.h1p{
+.h1p {
   position: relative;
- font-family: 'Times New Roman', Times, serif;
- font-weight: 5;
- font-size: 15px;
- text-align: left;
- width: 60%;
- left: 250px;
- top: -200px;
- color: #ffff;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 5;
+  font-size: 15px;
+  text-align: left;
+  width: 58%;
+  left: 250px;
+  top: -200px;
+  color: #ffff;
 }
-.h4{
+.h4 {
   position: relative;
   width: 70%;
   height: 225px;
   background-color: #ff7b48;
-top:200px ;
-left: 10%;
-border-radius: 20px 80px 80px 20px;
+  top: 200px;
+  left: 10%;
+  border-radius: 20px 80px 80px 20px;
 }
-.lap1{
+.lap1 {
   position: relative;
- top: -15px;
+  top: -15px;
   left: 510px;
   width: 250px;
   border-radius: 100%;
 }
-.a{
-  left:50px;
+.a {
+  left: 50px;
 }
-.h3{
+.h3 {
   position: relative;
   width: 70%;
   height: 225px;
   background-color: #2774b8;
-top:300px ;
-left: 15%;
-border-radius: 80px 20px 20px 80px;
+  top: 300px;
+  left: 15%;
+  border-radius: 80px 20px 20px 80px;
 }
-.b{
+.b {
   top: 400px;
   left: 150px;
 }
-.TM{
+.TM {
   position: absolute;
   width: 71.5%;
   left: 15.5%;
   height: 450px;
   top: 3900px;
-  background-color:#e8f1f9 ;
+  background-color: #e8f1f9;
 }
-.persons{
+.persons {
   display: grid;
   justify-content: center;
   position: absolute;
   text-align: center;
-top: 130px;
+  top: 130px;
   left: 8%;
   grid-template-columns: 300px 300px 300px;
   grid-template-rows: 350px;
 }
-.about{
+.about {
   position: relative;
   font-size: 25px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-   margin: 40px;
-   border-radius: 10px;
-   font-size: larger;
+  margin: 40px;
+  border-radius: 10px;
+  font-size: larger;
 }
-.i{
+.i {
   position: relative;
   top: 10px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-.Pimg{
+.Pimg {
   width: 100px;
   height: 80px;
   border-radius: 100%;
   left: 10px;
   margin: 5px;
 }
-.call{
+.call {
   position: absolute;
   width: 71.5%;
   left: 15.5%;
-  height: 600px;
+  height: 500px;
   top: 4350px;
-  background-color:#ffff ;
+  background-color: #ffff;
 }
-.cimg{
+.cimg {
   position: relative;
   width: 500px;
   top: 100px;
-  left:5%;
+  left: 5%;
   border-radius: 10px;
+}
+.cu {
+  position: relative;
+  width: 400px;
+  height: 70px;
+  background-color: #e52824;
+  top: -210px;
+  left: 45%;
+  border-radius: 50px;
+}
+.cu :first-child {
+  position: relative;
+  width: 30px;
+  top: 20px;
+  font-size: 30px;
+  left: 20px;
+  color: #ffff;
+}
+.c {
+  position: relative;
+  font-size: 28px;
+  top: 20px;
+  left: 40px;
+  color: #ffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.cu :last-child {
+  position: relative;
+  font-size: 25px;
+  top: 20px;
+  left: 45%;
+  color: #ffff;
+}
+.no {
+  position: relative;
+  width: 400px;
+  height: 280px;
+  background-color: #2774b8;
+  top: -200px;
+  left: 45%;
+  border-radius: 30px;
+}
+.no i {
+  position: relative;
+  font-size: 30px;
+  top: 35px;
+  left: 30px;
+  color: #ffff;
+}
+.pn {
+  position: relative;
+  font-size: 25px;
+  top: 35px;
+  left: 50px;
+  color: #ffff;
+}
+.line {
+  position: relative;
+  width: 80%;
+  height: 1px;
+  background-color: #ffff;
+  top: 50px;
+  left: 10%;
+}
+.globe i {
+  position: relative;
+  top: 60px;
+}
+.globe span {
+  position: relative;
+  color: #ffff;
+  top: 55px;
+  left: 50px;
+  font-size: 30px;
+}
+.line1 {
+  position: relative;
+  width: 80%;
+  height: 1px;
+  background-color: #ffff;
+  top: 70px;
+  left: 10%;
+}
+.mail span {
+  position: relative;
+  color: #ffff;
+  top: 80px;
+  left: 45px;
+  font-size: 25px;
+}
+.mail i {
+  position: relative;
+  top: 80px;
+}
+.line2 {
+  top: 90px;
+}
+.location i {
+  position: relative;
+  top: 100px;
+}
+.location span {
+  position: relative;
+  color: #ffff;
+  top: 95px;
+  left: 45px;
+  font-size: 25px;
+}
+.line3 {
+  top: 110px;
+}
+footer {
+  position: absolute;
+  width: 71.5%;
+  left: 15.5%;
+  height: 230px;
+  top: 4850px;
+  background-color: #2774b8;
+}
+.AC {
+  position: relative;
+  left: 5%;
+  top: 30px;
+  color: #ffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.ACp {
+  position: relative;
+  left: 5%;
+  top: 20px;
+  width: 30%;
+  color: #ffff;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.QL {
+  position: relative;
+  font-size: x-large;
+  left: 40%;
+  top: -150px;
+  color: #ffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.QL ul {
+  position: relative;
+  top: -10px;
+  font-size: medium;
+  left: -35px;
+  list-style-type: none;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.RUA {
+  position: relative;
+  font-size: x-large;
+  left: 55%;
+  top: -285px;
+  color: #ffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.RUA i {
+  position: relative;
+  top: 40px;
+  left: -135px;
+}
+.pon {
+  position: relative;
+  top: 40px;
+  font-size: smaller;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.PT {
+  position: relative;
+  font-size: x-large;
+  left: 73%;
+  top: -358px;
+  color: #ffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.TC {
+  position: relative;
+  top: 10px;
+  font-size: smaller;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+@media screen and (max-width: 600px) {
+  html,body{
+    width: 100%;
+    overflow-x: hidden;
+  }
+  .container {
+    position: absolute;
+    top: -10px;
+    left: -30px;
+    margin: 0px;
+    padding: 0px;
+    width: 108%;
+    height: 550px;
+  }
+  .brand {
+    color: #ec1d26;
+    font-size: 15px;
+    top: 2px;
+    left: 0.5%;
+  }
+  .home {
+    margin-left: 5px;
+    font-size: 10px;
+    font-weight: 150px;
+    padding: 1px;
+    top: 5px;
+    left: 35%;
+  }
+  .text {
+    width: 150px;
+    top: -15px;
+    left: 10%;
+    font-size: x-small;
+  }
+  h1 {
+    top: 50px;
+    font-size: 20px;
+    left: 40px;
+    width: 150px;
+  }
+  h5 {
+    top: 50px;
+    left: 40px;
+    width: 200px;
+  }
+  .join {
+    top: 50px;
+    left: 40px;
+    width: 150px;
+    height: 25px;
+    font-size: larger;
+  }
+  .img {
+    left: 58%;
+    top: -180px;
+    width: 170px;
+    height: 200px;
+  }
+  .features {
+    top: 350px;
+    grid-template-columns: 127px 127px 127px;
+    grid-template-rows: 175px;
+  }
+  .feat {
+    font-size: 12px;
+    margin: 2px;
+    border-radius: 10px;
+    font-size: smaller;
+  }
+  .fimg {
+    width: 90px;
+    height: 80px;
+    left: 10px;
+    margin: 3px;
+  }
+  .info {
+    top: 10px;
+    font-size: 8px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .second {
+    height: 520px;
+    width: 100%;
+    left: 1%;
+    top: 525px;
+  }
+  .head {
+    width: 150px;
+    top: 30px;
+    left: 5%;
+    font-size: 20px;
+    font-weight: 900;
+  }
+  .para {
+    font-size: smaller;
+    top: 40px;
+    left: 5%;
+    width: 200px;
+  }
+
+  .list {
+    top: 30px;
+    left: 9%;
+  }
+  .Himg {
+    top: -300px;
+    left: 52%;
+    width: 180px;
+  }
+  .E {
+    top: -150px;
+    left: 6%;
+    font-weight: bold;
+  }
+}
+@media screen and (max-width: 600px) {
+  .trd {
+    height: 600px;
+    width: 100%;
+    left: 1%;
+    top: 1040px;
+  }
+  .head2 {
+    top: 6%;
+    font-size: 20px;
+    font-weight: 900;
+  }
+  .p2 {
+    top: 7%;
+    left: 6%;
+    width: 350px;
+    font-size: 10px;
+  }
+  .features1 {
+    top: 200px;
+    left: 3%;
+    grid-template-columns: 120px 120px 120px;
+    grid-template-rows: 175px 175px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .wtkm {
+    width: 100%;
+    left: 0%;
+    height: 100px;
+    top: 1630px;
+  }
+  .wtk {
+    top: 20px;
+    left: 5%;
+    font-size: 25px;
+    width: 200px;
+    font-weight: bolder;
+  }
+  .cwu {
+    width: 150px;
+    top: 35%;
+    left: 56%;
+    font-size: 15px;
+    margin: 3px;
+    padding: 3px;
+    font-weight: bolder;
+  }
+}
+@media screen and (max-width: 600px) {
+  .th4 {
+    width: 100%;
+    left: 0%;
+    height: 720px;
+    top: 1730px;
+  }
+  .h1 {
+    width: 85%;
+    height: 115px;
+    top: 70px;
+    left: 4%;
+  }
+  .lap {
+    top: -5px;
+    left: -20px;
+    width: 120px;
+  }
+  .h2 {
+    width: 50%;
+    font-size: 15px;
+    top: -95px;
+    left: 120px;
+  }
+  .h1p {
+    font-weight: 2;
+    font-size: 8px;
+    left: 120px;
+    top: -95px;
+  }
+  .h4 {
+    width: 85%;
+    height: 115px;
+    top: 100px;
+    left: 4%;
+  }
+  .lap1 {
+    top: -5px;
+    left: 240px;
+    width: 120px;
+  }
+  .a {
+    left: 25px;
+  }
+  .h3 {
+    width: 85%;
+    height: 115px;
+    top: 120px;
+    left: 4%;
+  }
+  .b {
+    top: 150px;
+    left: 8%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .TM {
+    width: 100%;
+    left: 0%;
+    height: 250px;
+    top: 2450px;
+  }
+  .persons {
+    top: 60px;
+    left: 2%;
+    grid-template-columns: 127px 127px 127px;
+    grid-template-rows: 175px;
+  }
+  .about {
+    font-size: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: smaller;
+    font-weight: bolder;
+  }
+  .i {
+    top: 10px;
+    font-weight: lighter;
+  }
+  .Pimg {
+    width: 50px;
+    height: 40px;
+    left: 10px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .call {
+    width: 100%;
+    left: 0%;
+    height: 280px;
+    top: 2700px;
+  }
+  .cimg {
+    width: 250px;
+    top: 50px;
+    left: 3%;
+  }
+  .cu {
+    width: 150px;
+    height: 40px;
+    top: -110px;
+    left: 55%;
+  }
+  .cu :first-child {
+    width: 15px;
+    top: 11px;
+    font-size: 15px;
+    left: 10px;
+  }
+  .c {
+    font-size: 14px;
+    top: 11px;
+    left: 20px;
+    font-weight: bolder;
+  }
+  .cu :last-child {
+    font-size: 13px;
+    top: 10px;
+    left: 23%;
+  }
+  .no {
+    width: 150px;
+    height: 140px;
+    top: -100px;
+    left: 55%;
+  }
+  .no i {
+    font-size: 15px;
+    top: 18px;
+    left: 15px;
+  }
+  .pn {
+    font-size: 14px;
+    top: 18px;
+    left: 25px;
+  }
+  .line {
+    top: 25px;
+  }
+  .globe i {
+    top: 30px;
+  }
+  .globe span {
+    top: 28px;
+    left: 20px;
+    font-size: 11px;
+  }
+  .line1 {
+    top: 35px;
+  }
+  .mail span {
+    top: 35px;
+    left: 18px;
+    font-size: 10px;
+  }
+  .mail i {
+    top: 35px;
+  }
+  .line2 {
+    top: 37px;
+  }
+  .location i {
+    top: 40px;
+  }
+  .location span {
+    top: 38px;
+    left: 20px;
+    font-size: 10px;
+  }
+  .line3 {
+    top: 40px;
+  }
+}
+@media screen and (max-width: 600px) {
+  footer {
+    width: 100%;
+    left: 0%;
+    height: 230px;
+    top: 4550px;
+  }
+  .foot {
+    left: 5%;
+    top: 30px;
+  }
+  .footp {
+    left: 5%;
+    top: 20px;
+    width: 30%;
+  }
+  .foot1 {
+    font-size: x-large;
+    left: 40%;
+    top: -150px;
+  }
+  .foot1 ul {
+    top: -10px;
+    font-size: medium;
+    left: -35px;
+  }
+  .foot2 {
+    font-size: x-large;
+    left: 55%;
+    top: -285px;
+  }
+  .foot2 i {
+    top: 40px;
+    left: -135px;
+  }
+  .pon {
+    top: 40px;
+    font-size: smaller;
+  }
+  .foot3 {
+    font-size: x-large;
+    left: 73%;
+    top: -358px;
+  }
+  .TC {
+    top: 10px;
+    font-size: smaller;
+  }
+}
+@media screen and (max-width: 600px) {
+  footer {
+    width: 100%;
+    left:0%;
+    height: 150px;
+    top: 2980px;
+  }
+  .AC {
+    width: 150px;
+    left: 1%;
+    top: 0px;
+    font-size:medium;
+  }
+  .ACp {
+    left: 1%;
+    top: 0px;
+    width: 35%;
+    font-size: x-small;
+  }
+  .QL {
+    width: 100px;
+    font-size: medium;
+    left: 38%;
+    top: -148px;
+    font-weight: bolder;
+  }
+  .QL ul {
+    padding: 0px;
+    width: 50px;
+    top: 5px;
+    font-size: x-small;
+    left: 10px;
+  }
+  .RUA {
+    width: 164px;
+    font-size:medium;
+    left: 60%;
+    top: -237px;
+    font-weight: bolder;
+  }
+  .RUA i {
+    width: 15px;
+    top: 32px;
+    left: -90px;
+  }
+  .pon {
+    top: 32px;
+    font-size:x-small;
+  }
+  .PT {
+    width: 105px;
+height: 55px;
+    font-size: smaller;
+    left: 75%;
+    top: -200px;
+    font-weight: bolder;
+  }
+  .TC {
+    top: 10px;
+    font-size: x-small;
+  }
 }
